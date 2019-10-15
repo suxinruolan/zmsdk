@@ -1,0 +1,22 @@
+{
+  "name": "ZmGameSdk",
+  "version": "0.0.0",
+  "description": "真漫公司对外开放游戏sdk",
+  "title": "gameSdk",
+  "url": "ZMIM.",
+  "header": {
+    "title": "简介",
+    "filename": "header.md"
+  },
+  "footer": {
+    "title": "其他",
+    "filename": "footer.md"
+  },
+  "order": [
+    "user",
+    "resurrection",
+    "ranking",
+    "score",
+    "mobile"
+  ]
+}
